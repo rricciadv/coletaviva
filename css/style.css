@@ -1,0 +1,45 @@
+/*!
+ * Mastertech - Heroic Features
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.cor{
+    color:red;
+}
+.card {
+    height: 100%;
+}
+
+
+/* Inicio do meu CSS */
+.corbarra{
+    background-color: #3a5671!important;
+}
+
+.corbotao{
+    color: #403d7a;
+    background-color: #bad3a5;
+    border-color: #bad3a5;
+}
+
+.corbotao:hover{
+    color: #403d7a;
+    background-color: #bad3a5;
+    border-color: #bad3a5;
+}
+
+/* Fim do meu CSS */
